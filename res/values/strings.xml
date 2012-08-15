@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mike\'s Sensors</string>
+    <color name="background">#ff6495A7</color>
+    <color name="text">#ff000000</color>
+    <color name="darkerBackground">#ff84B5C7</color>
+</resources>
